@@ -1,0 +1,20 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2.2.0",
+  "iOS" : [
+    {
+      "hash" : "8d90ad920d92682d565207063b5345e2ba26215fde70e9b9a47e7b0245cf4991",
+      "name" : "Chameleon",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    }
+  ]
+}
